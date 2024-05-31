@@ -620,7 +620,7 @@ const circles = [
   },
   {
     position: { x: 0, y: 0.57, z: -8.5 },
-    message: "Bravo vous avez fini !</br>Ceci étant quelques projets je serais ravi de vous rencontrez afin d'en discuter où de vous en présentez d'autres !</br></br>Voir le code:</br>  - https://github.com/SixteMorio/portfolio</br></br></br>Copyright </br> - Wave by Poly by Google [CC - BY](<https://creativecommons.org/licenses/by/3.0/>) via Poly Pizza (<https://poly.pizza/m/6mpwUZqCgzy>)</br> - Ocean by Poly by Google [CC- BY](<https://creativecommons.org/licenses/by/3.0/>) via Poly Pizza (<https://poly.pizza/m/faUostvShTI>)"
+    message: `Bravo vous avez fini !</br>Ceci étant quelques projets je serais ravi de vous rencontrez afin d'en discuter où de vous en présentez d'autres !</br></br>Voir le code:</br>  - <a href "https://github.com/SixteMorio/portfolio" target="_blank">https://github.com/SixteMorio/portfolio</a></br></br></br>Copyright </br> - Wave by Poly by Google [CC - BY](<https://creativecommons.org/licenses/by/3.0/>) via Poly Pizza (<https://poly.pizza/m/6mpwUZqCgzy>)</br> - Ocean by Poly by Google [CC- BY](<https://creativecommons.org/licenses/by/3.0/>) via Poly Pizza (<https://poly.pizza/m/faUostvShTI>)`
   }
 ];
 
